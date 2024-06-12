@@ -1,0 +1,72 @@
+Cozinha: 
+Uma cozinha infestada de ratos e muita comida.
+
+Sala de jantar: 
+Uma sala de jantar com uma mesa central, algumas garrafas e um cheiro podre.
+
+Corredor lateral: 
+Um corredor com entradas nos sentido oeste e leste.
+
+Corredor vertical: 
+Um corredor com entradas nos sentido norte e sul.
+
+Guarita: 
+Uma sala com guardas e um chaveiro enorme.
+
+Masmorra: 
+Uma corredor com várias celas ocupadas por monstros.
+
+Dispensa: 
+Uma pequena dispensa infestada de ratos e alguns consúmiveis.
+
+Salão principal: 
+Um salão mal iluminado por uma vela.
+
+Sala do trono: 
+Um salão grande com um trono no fundo e uma estranha névoa.
+
+Expurgo: 
+Um pequeno quarto escuro com material de limpeza e um alçapão no chão.
+
+Paiol: 
+Um armazém de armas enorme, protegido por guardas.
+
+Entrada: 
+Um portão gigante seguido de um corredor e um vaso verde sem flores.
+Um portão gigante seguido de um corredor e um vaso verde com um crisântemo verde.
+
+Encruzilhada: 
+Uma sala vazia integrando quatro outros cômodos.
+
+Quartéis: 
+O alojamento dos guardas, com muitos guardas e equipamento.
+
+Porão:
+O subterrâneo dos quartéis, conectado à outos quartos, e um caixão vazio, escrito memento mori.
+
+Torre vermelha: 
+Um quarto cheio de ossos, guardado por uma gárgula gigante, além de um vaso vermelho sem flores.
+Um quarto cheio de ossos, guardado por uma gárgula gigante, além de um vaso vermelho com uma rosa.
+
+Sala do tesouro: 
+Uma sala cheia de ouro, jóias, artefatos preciosos, e um vaso dourado sem flores.
+Uma sala cheia de ouro, jóias, artefatos preciosos, e um vaso dourado com um narciso.
+
+Torre do vigia: 
+Uma alta torre com duas gárgulas.
+
+Jardim:
+Um jardim com diversas flores usadas na alquímia e algumas substítutas para flores exóticas.
+
+O Grimório: 
+Um grande salão com biblioteca, laboratório de alquimia e um vaso azul sem flores.
+Um grande salão com biblioteca, laboratório de alquimia e um vaso azul com uma borboleteira.
+
+Catacumbas: 
+Uma rede de túneis e alçapões embaixo do castelo, preenchida até as paredes com túmulos e draugar.
+
+Quarto do rei: 
+O quarto do falecido rei, guardado por um draugr bem vestido e armado, com uma porta pesada ao fundo, detalhada com flores coloridas.
+
+Quarto secreto: 
+Um pequeno quarto atrás da porta florida, com a fonte da juventude.
