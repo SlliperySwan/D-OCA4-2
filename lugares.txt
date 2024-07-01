@@ -1,72 +1,88 @@
-Cozinha: 
-Uma cozinha infestada de ratos e muita comida.
+"Uma cozinha infestada de ratos e muita comida."
 
-Sala de jantar: 
-Uma sala de jantar com uma mesa central, algumas garrafas e um cheiro podre.
 
-Corredor lateral: 
-Um corredor com entradas nos sentido oeste e leste.
+"Uma sala de jantar com uma mesa central e algumas garrafas."
+"Um cheiro podre."
 
-Corredor vertical: 
-Um corredor com entradas nos sentido norte e sul.
+"Uma sala vazia integrando três outros cômodos."
 
-Guarita: 
-Uma sala com guardas e um chaveiro enorme.
 
-Masmorra: 
-Uma corredor com várias celas ocupadas por monstros.
+"Uma pequena guarita, com um guarda mal pago."
 
-Dispensa: 
-Uma pequena dispensa infestada de ratos e alguns consúmiveis.
 
-Salão principal: 
-Um salão mal iluminado por uma vela.
+"Uma corredor com várias celas ocupadas por monstros."
 
-Sala do trono: 
-Um salão grande com um trono no fundo e uma estranha névoa.
 
-Expurgo: 
-Um pequeno quarto escuro com material de limpeza e um alçapão no chão.
+"Uma pequena dispensa infestada de ratos e alguns consúmiveis."
 
-Paiol: 
-Um armazém de armas enorme, protegido por guardas.
 
-Entrada: 
-Um portão gigante seguido de um corredor e um vaso verde sem flores.
-Um portão gigante seguido de um corredor e um vaso verde com um crisântemo verde.
+"Um salão grande com um trono no fundo e uma estranha névoa."
 
-Encruzilhada: 
-Uma sala vazia integrando quatro outros cômodos.
 
-Quartéis: 
-O alojamento dos guardas, com muitos guardas e equipamento.
+"Um salão mal iluminado por uma vela."
 
-Porão:
-O subterrâneo dos quartéis, conectado à outos quartos, e um caixão vazio, escrito memento mori.
 
-Torre vermelha: 
-Um quarto cheio de ossos, guardado por uma gárgula gigante, além de um vaso vermelho sem flores.
-Um quarto cheio de ossos, guardado por uma gárgula gigante, além de um vaso vermelho com uma rosa.
+"Um pequeno quarto escuro com coisas velhas e um alçapão no chão."
 
-Sala do tesouro: 
-Uma sala cheia de ouro, jóias, artefatos preciosos, e um vaso dourado sem flores.
-Uma sala cheia de ouro, jóias, artefatos preciosos, e um vaso dourado com um narciso.
 
-Torre do vigia: 
-Uma alta torre com duas gárgulas.
+"Uma rede de túneis e alçapões embaixo do castelo."
+"Preenchida até as paredes com túmulos de draugar."
 
-Jardim:
-Um jardim com diversas flores usadas na alquímia e algumas substítutas para flores exóticas.
+"Um portão gigante seguido de um corredor."
 
-O Grimório: 
-Um grande salão com biblioteca, laboratório de alquimia e um vaso azul sem flores.
-Um grande salão com biblioteca, laboratório de alquimia e um vaso azul com uma borboleteira.
 
-Catacumbas: 
-Uma rede de túneis e alçapões embaixo do castelo, preenchida até as paredes com túmulos e draugar.
+"Um corredor com entradas nos sentidos leste e oeste."
 
-Quarto do rei: 
-O quarto do falecido rei, guardado por um draugr bem vestido e armado, com uma porta pesada ao fundo, detalhada com flores coloridas.
 
-Quarto secreto: 
-Um pequeno quarto atrás da porta florida, com a fonte da juventude.
+"Uma sala vazia integrando quatro outros cômodos."
+
+
+"O alojamento dos guardas, com muitos guardas e equipamento."
+
+
+"Um armazém de armas enorme, protegido por guardas."
+
+
+"Um corredor com entradas nos sentidos norte e sul."
+
+
+"Um jardim com diversas flores substítutas para flores exóticas."
+
+
+"Uma pequena guarita, com um guarda mal pago."
+
+
+"O quarto do falecido rei, guardado por um draugr bem vestido e armado." 
+"Uma porta com um desenho de um homem segurando um cálice em cada mão."
+"No chão, ao redor do homem, flores, e uma mensagem: C1B5N7R10."
+"O subterrâneo dos quartéis, conectado ao expurgo por um alçapão."
+
+
+"Uma alta torre com duas gárgulas."
+
+
+"Um grande salão com biblioteca e laboratório de alquímia."
+
+
+"Uma sala cheia de ouro, jóias e artefatos preciosos."
+
+
+"Um pequeno quarto atrás da porta decorada."
+"Dentro, uma coleção de artefatos preciosos."
+"No meio deles, a fonte da juventude."
+
+
+"Um quarto quente, cheio de vapor, fornalhas e ossos."
+"Guardado por uma gárgula de ouro incandescente."
+
+
+
+
+
+
+
+
+
+
+
+

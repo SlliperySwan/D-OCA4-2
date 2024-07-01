@@ -1,23 +1,22 @@
 * Jogador:
-  Recebe 1 de regeneração e 3 de vida máxima.
+  Recebe 1 de regeneração e 5 de vida máxima.
   Não morre para dano contínuo.
 * Inimigos:
-  Chefões tem 3 barras de vida e sempre deixam itens lendários ao morrer.
   Podem existir no máximo 3 inimigos ao mesmo tempo.
 
 * Jogador:
-  Não regenera vida naturalmente e recebe 1 de vida máxima.
+  Não regenera vida e recebe 1 de vida máxima.
   Não morre para dano contínuo.
 * Inimigos:
-  Chefões tem 4 barras de vida e ás vezes deixam itens lendários ao morrer.
-  Podem existir no máximo 3 inimigos ao mesmo tempo.
+  Chefões são 50% mais resistentes.
+  Podem existir no máximo 4 inimigos ao mesmo tempo.
 
 * Jogador:
   Não regenera vida.
   Pode morrer para dano contínuo.
 * Inimigos:
-  Chefões tem 5 barras de vida e raramente deixam itens lendários ao morrer.
-  Podem existir no máximo 4 inimigos ao mesmo tempo.
+  Chefões são 100% mais resistentes.
+  Podem existir no máximo 5 inimigos ao mesmo tempo.
 
 * Equipamento inicial: 
   Espada de ferro.
@@ -32,19 +31,17 @@
   Flecha (25).
 * Habilidades:
   * Saque rápido:
-    Ataca primeiro em todos os turnos.
+    Ataca primeiro no início das batalhas.
 
 
 * Equipamento inicial: 
-  Livro de feitiços: Fogo.
+  Grimório: Fogo.
   Poção de cura (2).
   Poção de mana (2).
 * Recurso: mana
-  Começa com 10 de mana máximo e 2 de regeneração de mana.
+  Começa com 10 de mana máximo e 3 de regeneração de mana.
 * Habilidades:
-  * Tempestade de fogo (5 de mana):
+  * Apocalipse (10 de mana):
     Causa 1 de dano à todos os inimigos vivos.
     É repetida se matar pelo menos 1 inimigo.
-    A cada 7 combates vencidos causa +1 de dano.
-  * Incompatibilidade mágica:
-    Só pode usar armas e armaduras indicadas para mago.
+    Causa +1 de dano para cada combate vencido.

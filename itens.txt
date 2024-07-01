@@ -1,0 +1,156 @@
+"Arma branca de curto alcance com ataques fracos, porém rápidos."
+"Mais forte se usada em inimigos desprevinidos."
+
+
+"Arma de longo alcance, perfeita para atacantes furtivos."
+"Mais forte se usada em inimigos desprevinidos."
+"Consome flechas."
+
+"Um bacarmate que atira sem balas, não exige explicação."
+
+
+
+"Arma de longo alcance especializada em penetrar armaduras."
+"Consome flechas."
+"Gasta um turno para carregar."
+
+"Um bolinho Ana Maria de morango. Recupera saúde."
+
+
+
+"Tia! É bolo de que? Bolo de bolo. Recupera saúde."
+
+
+
+"Fornece bastante proteção para os pés."
+
+
+
+"Uma flor azul muito bonita."
+
+
+
+"Não vai te proteger de tiros na cabeça, mas o funeral é mais bonito."
+
+
+
+"Um chapéu de mago azul cheio de estrelinhas, te faz se sentir poderoso."
+"Exclusivo para magos."
+
+
+"Uma coroa, sim, refiro ao ornamento de ouro."
+"Guardas acham que você é rei e não te atacam."
+
+
+"É basicamente uma camisa, mas te protege de arranhões."
+
+
+
+"Faz você achar que poderia derrotar o mundo."
+
+
+
+"Uma flor verde não tão bonita."
+
+
+
+"O escudo te protege de ameaças unilaterais."
+"Obs.: você ainda pode morrer incinerado."
+
+
+"Uma simples espada de ferro."
+"Não é muito comprida, mas tudo depende da habilidade de quem a empunha."
+
+
+"Uma espada de madeira, agora, suas mãos estão cheias de farpas."
+
+
+
+"Uma espada vermelha com tendências violentas que drena a saúde do inimigo."
+"Cura e dano aumentam quando você está morrendo."
+
+
+"A ferramenta essencial de um mestre-cuca."
+"A cada três turnos cria uma omelete no inventário, se houver espaço."
+
+
+"Munição necessária para usar arcos e bestas."
+"Não, não dá para arremessar com as mãos."
+
+
+"Livro de feitiços com feitiços de... advinha!"
+"Exclusivo para magos."
+
+
+"Revela a maior parte da estrutura da fortaleza."
+
+
+
+"Flor amarela, não inclui personagem grego."
+
+
+
+"Ainda não foi amassado. Recupera saúde."
+
+
+
+"Protege as pernas."
+
+
+
+"Recupa muita saúda."
+"Cura aumenta com a vida perdida."
+
+
+"Recupera mana."
+"Você pode usar se não for mago, mas não adianta muito."
+
+
+"Um tipo de sabre mais conhecido pela esgrima."
+"Pode atacar várias vezes no mesmo turno."
+
+
+"Flor vermelha genérica."
+
+
+
+"Chapéu do chef."
+"Fortalece a espátula de acordo com o número de omeletes no inventário."
+
+
+"Flor amarela, substítuta barata do narciso."
+
+
+
+"Flor vermelha, substítuta elegante da rosa."
+
+
+
+"Garante que você não será atacado de surpresa em um quarto."
+"Apaga logo em seguida."
+
+
+"Deixa você bêbado por alguns turno."
+"Você causa mais dano em ataques corpo a corpo, mas tem chance de errar."
+"Quem não arrisca, não petisca."
+
+"Conhecimento básico de qualquer mago que se preze."
+"Exclusivo para magos."
+
+
+"Flecha mergulhada em veneno de sapo."
+"Infelizmente, os alvos morrem antes do veneno fazer efeito."
+
+
+"Cálice de prata necessário para abrir..."
+"Esquece, era spoiler."
+
+
+"Cálice de ouro necessário para..."
+"Nada, necessário para nada..."
+
+
+
+
+
+
